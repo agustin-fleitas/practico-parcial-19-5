@@ -37,7 +37,7 @@ def verif_clave(contra):
 
 
 def val_seg(contra):
-
+    #validacion de contraseña
     tiene_letras = False
     tiene_numeros = False
     tiene_simbolos = False
